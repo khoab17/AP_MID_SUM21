@@ -1,0 +1,36 @@
+﻿@model List<Lab_Practice.Models.Student>
+@{
+    ViewBag.Title = "Home Page";
+}
+<h2>Students</h2>
+<div class="container">
+    <table class="table table-condensed">
+        <tr>
+            <th>Name</th>
+            <th>ID</th>
+            <th>DOB</th>
+            <th>Credit</th>
+            <th>CGPA</th>
+            <th>Department</th>
+            <th></th>
+            <th></th>
+        </tr>
+
+        @foreach (var students in @Model)
+        {
+            <tr>
+                <td>@students.Name</td>
+                <td>@students.Id</td>
+                <td>@students.DOB</td>
+                <td>@students.Credit</td>
+                <td>@students.CGPA</td>
+                <td>@students.Department.Name</td>
+                <td><a class="btn btn-success" href="Student/Edit/@students.Id ">Edit</a></td>
+                <td><a class="btn btn-danger" href="Student/Delete/@students.Id">Delete</a></td>
+            </tr>
+        }
+
+
+
+    </table>
+</div>

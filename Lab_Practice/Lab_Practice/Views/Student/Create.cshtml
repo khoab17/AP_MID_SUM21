@@ -1,0 +1,29 @@
+﻿@model Lab_Practice.Models.ViewModel.StudentDepartment
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+<div>
+    <form action="/Student/Create" method="post">
+        <input type="text" name="Name" class="form-control" placeholder="Name..">
+        @Html.ValidationMessage("Name", htmlAttributes: new { @class = "text-danger" })
+        <input type="date" name="DOB" class="form-control" placeholder="DOB..">
+        @Html.ValidationMessage("DOB", htmlAttributes: new { @class = "text-danger" })
+        <input type="text" name="Credit" class="form-control" placeholder="Credit..">
+        @Html.ValidationMessage("Credit", htmlAttributes: new { @class = "text-danger" })
+        <input type="text" name="CGPA" class="form-control" placeholder="CCPA..">
+        @Html.ValidationMessage("CGPA", htmlAttributes: new { @class = "text-danger" })
+
+        <select class="form-control" name="Dept_id">
+            <option value="null" selected disabled>Select</option>
+            @foreach (var c in Model.departments)
+            {
+                <option value="@c.Id">@c.Name</option>
+            }
+        </select>
+        @Html.ValidationMessage("Dept_id", "", "span")
+
+        <input type="submit" class="btn btn-block" value="Add" />
+    </form>
+</div>

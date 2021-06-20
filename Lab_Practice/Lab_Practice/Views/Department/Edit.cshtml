@@ -1,0 +1,16 @@
+﻿@model Lab_Practice.Models.Department
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+<div>
+    <form action="/Department/Edit" method="post">
+        <input type="hidden" name="Id" value="@Model.Id"/>
+        <input type="text" name="Name" class="form-control" value="@Model.Name" placeholder="Name..">
+        @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })<br>
+        <input type="submit" class="btn btn-block" value="Save" />
+    </form>
+</div>
+
+
