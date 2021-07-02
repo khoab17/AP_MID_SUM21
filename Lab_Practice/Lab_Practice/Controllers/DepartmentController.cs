@@ -8,8 +8,10 @@ using System.Web.Mvc;
 
 namespace Lab_Practice.Controllers
 {
+    [Authorize]
     public class DepartmentController : Controller
     {
+        
         public ActionResult Index()
         {
             Database db = new Database();

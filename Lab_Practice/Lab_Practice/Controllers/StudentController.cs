@@ -9,6 +9,7 @@ using System.Web.Mvc;
 
 namespace Lab_Practice.Controllers
 {
+    [Authorize]
     public class StudentController : Controller
     {
         public ActionResult Index()

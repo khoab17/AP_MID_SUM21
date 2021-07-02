@@ -8,6 +8,7 @@ namespace Lab_Practice.Models.Database
 {
     public class Database
     {
+        public Admins Admins { get; set; }
         public Students Students { get; set; }
         public Departments Departments { get; set; }
         public Database()
@@ -17,6 +18,7 @@ namespace Lab_Practice.Models.Database
 
             Students = new Students(conn);
             Departments = new Departments(conn);
+            Admins = new Admins(conn);
 
         }
     }
