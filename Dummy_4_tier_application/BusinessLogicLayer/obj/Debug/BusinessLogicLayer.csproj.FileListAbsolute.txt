@@ -1,0 +1,28 @@
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\BusinessLogicLayer\bin\Debug\BusinessEntityLayer.dll
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\BusinessLogicLayer\bin\Debug\BusinessEntityLayer.pdb
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Dummy_4_tier_application\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Dummy_4_tier_application\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Dummy_4_tier_application\BusinessLogicLayer\bin\Debug\BusinessEntityLayer.dll
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Dummy_4_tier_application\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Dummy_4_tier_application\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Dummy_4_tier_application\BusinessLogicLayer\bin\Debug\BusinessEntityLayer.pdb
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Dummy_4_tier_application\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Dummy_4_tier_application\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Dummy_4_tier_application\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Dummy_4_tier_application\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Dummy_4_tier_application\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Dummy_4_tier_application\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Dummy_4_tier_application\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Dummy_4_tier_application\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

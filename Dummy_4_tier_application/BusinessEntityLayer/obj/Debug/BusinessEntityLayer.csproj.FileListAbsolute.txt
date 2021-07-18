@@ -1,0 +1,6 @@
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\BusinessEntityLayer\bin\Debug\BusinessEntityLayer.dll
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\BusinessEntityLayer\bin\Debug\BusinessEntityLayer.pdb
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\BusinessEntityLayer\obj\Debug\BusinessEntityLayer.csproj.AssemblyReference.cache
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\BusinessEntityLayer\obj\Debug\BusinessEntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\BusinessEntityLayer\obj\Debug\BusinessEntityLayer.dll
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\BusinessEntityLayer\obj\Debug\BusinessEntityLayer.pdb

@@ -1,0 +1,24 @@
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\syed\Desktop\Dummy Project\Dummy_4_tier_application\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Dummy_4_tier_application\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Dummy_4_tier_application\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Dummy_4_tier_application\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Dummy_4_tier_application\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Dummy_4_tier_application\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Dummy_4_tier_application\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Dummy_4_tier_application\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Dummy_4_tier_application\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Dummy_4_tier_application\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Dummy_4_tier_application\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Dummy_4_tier_application\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Dummy_4_tier_application\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
