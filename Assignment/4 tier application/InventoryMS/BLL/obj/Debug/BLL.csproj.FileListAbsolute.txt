@@ -1,0 +1,16 @@
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Assignment\4 tier application\InventoryMS\BLL\bin\Debug\BLL.dll
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Assignment\4 tier application\InventoryMS\BLL\bin\Debug\BLL.pdb
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Assignment\4 tier application\InventoryMS\BLL\bin\Debug\BEL.dll
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Assignment\4 tier application\InventoryMS\BLL\bin\Debug\DAL.dll
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Assignment\4 tier application\InventoryMS\BLL\bin\Debug\EntityFramework.dll
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Assignment\4 tier application\InventoryMS\BLL\bin\Debug\BEL.pdb
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Assignment\4 tier application\InventoryMS\BLL\bin\Debug\DAL.pdb
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Assignment\4 tier application\InventoryMS\BLL\bin\Debug\DAL.dll.config
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Assignment\4 tier application\InventoryMS\BLL\bin\Debug\EntityFramework.xml
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Assignment\4 tier application\InventoryMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Assignment\4 tier application\InventoryMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Assignment\4 tier application\InventoryMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Assignment\4 tier application\InventoryMS\BLL\obj\Debug\BLL.dll
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Assignment\4 tier application\InventoryMS\BLL\obj\Debug\BLL.pdb
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Assignment\4 tier application\InventoryMS\BLL\bin\Debug\AutoMapper.dll
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Assignment\4 tier application\InventoryMS\BLL\bin\Debug\AutoMapper.xml

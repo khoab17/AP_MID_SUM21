@@ -1,0 +1,6 @@
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Assignment\4 tier application\InventoryMS\BEL\bin\Debug\BEL.dll
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Assignment\4 tier application\InventoryMS\BEL\bin\Debug\BEL.pdb
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Assignment\4 tier application\InventoryMS\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Assignment\4 tier application\InventoryMS\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Assignment\4 tier application\InventoryMS\BEL\obj\Debug\BEL.dll
+C:\Users\syed\OneDrive\Work\ATP_Git\Work\AP_MID_SUM21\Assignment\4 tier application\InventoryMS\BEL\obj\Debug\BEL.pdb
